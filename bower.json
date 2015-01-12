@@ -1,0 +1,22 @@
+{
+  "name": "Home-work-2",
+  "version": "0.1.0",
+  "authors": [
+    "jenyanem <nemerov4enko@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.2",
+    "jquery": "1.8",
+    "modernizr": "~2.8.3",
+    "tooltipster": "~3.3.0"
+  }
+}
